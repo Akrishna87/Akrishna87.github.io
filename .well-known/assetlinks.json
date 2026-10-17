@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.akrishna87.rssreader",
+      "sha256_cert_fingerprints": [
+        "4A:EA:B4:00:4B:A2:B3:73:25:1C:D8:E3:FB:1A:DF:0A:B0:78:45:1D:C2:12:46:06:AE:E6:A0:0D:EF:D4:49:4D"
+      ]
+    }
+  }
+]
